@@ -9,7 +9,6 @@
 # ENV variable SLACKTOKEN assumed to include token for Slack app usage
 # (export SLACKTOKEN=MY_SLACK_GIVEN_TOKEN_TO_MY_APP)
 #
-# TODO: trap possible slacking error
 
 import slack
 import os,sys,argparse
