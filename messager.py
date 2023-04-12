@@ -4,6 +4,7 @@
 # Idea from https://howchoo.com/python/python-send-slack-messages-slackclient
 # 
 # For Slack lib: pip install slackclient
+# or  pip install -r requirements.txt
 # see web page for Slack app creation/configuration magic
 #
 # ENV variable SLACKTOKEN assumed to include token for Slack app usage
